@@ -36,6 +36,7 @@ What's been made so far :
     <td>Not (yet)</td>
   </tr>
 </table>
+<<<<<<< HEAD
 
 ## roadmaps (in 6 months
 - Add CSS responsive layout for horizontal and vertical screen, as well as small and large width
@@ -47,4 +48,6 @@ What's been made so far :
 
 ---
 
+=======
+>>>>>>> 670f2cc (Update README.md)
 <br/>Hope you enjoy your website, mate!
